@@ -1,4 +1,3 @@
 numpy
 matplotlib
-cvxpy
 opencv-python
